@@ -3,6 +3,7 @@
 - 💞️ I’m looking to collaborate with companies that want to make a change.
 - 📫 How to reach me: email- anita.rocha0505@gmail.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnniesTech)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnniesTech&show_icons=true&theme=tokyonight)
 
 <!---
