@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AnniesTech
-- 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate with companies that want to make a change.
-- 📫 How to reach me: email- anita.rocha0505@gmail.com
+#  Hi there I’m @AnniesTech 👋
+
+I’m currently learning software development at Holberton School.
+You can find me on [Linkedin](https://www.linkedin.com/in/ana-rocha-b98174216/) or reach me to my email anita.rocha0505@gmail.com 📫
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnniesTech&show_icons=true&theme=tokyonight)
 
